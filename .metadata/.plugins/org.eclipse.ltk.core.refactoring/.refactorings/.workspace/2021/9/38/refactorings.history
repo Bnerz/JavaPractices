@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename Java project &apos;com.exercise.section8.lesson70-POO&apos; to &apos;com.exercise.section8.lesson70-POO_Exercicio1&apos;&#x0D;&#x0A;- Original element: &apos;com.exercise.section8.lesson70-POO&apos;&#x0D;&#x0A;- Renamed element: &apos;com.exercise.section8.lesson70-POO&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename Java project &apos;com.exercise.section8.lesson70-POO&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=com.exercise.section8.lesson70-POO" name="com.exercise.section8.lesson70-POO_Exercicio1" references="true" stamp="1632603781684" version="1.0"/>
+</session>

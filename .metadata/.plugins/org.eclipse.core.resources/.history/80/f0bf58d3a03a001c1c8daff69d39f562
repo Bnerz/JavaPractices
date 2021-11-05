@@ -1,0 +1,9 @@
+package entities;
+
+public class DELIVERY {
+	
+	private int id;
+	private Date moment;
+	private OrderStatus;
+
+}

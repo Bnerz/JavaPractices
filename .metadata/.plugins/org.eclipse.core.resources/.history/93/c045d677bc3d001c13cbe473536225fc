@@ -1,0 +1,24 @@
+package carrosComprados;
+
+public class CarrosComprados {
+	
+	public String nameCar;
+	private double valor;
+	
+	
+	public CarrosComprados() {
+		
+	}
+	
+	public CarrosComprados(String nameCar, double valor) {
+		super();
+		this.nameCar = nameCar;
+		this.valor = valor;
+	}
+	
+	
+	
+	
+	
+
+}

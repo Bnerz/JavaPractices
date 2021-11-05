@@ -1,0 +1,23 @@
+package estruturaCondicional;
+
+import java.util.Scanner;
+
+public class HoraInicialEFinal {
+
+	public static void main(String[] args) {
+		
+		Scanner sc = new Scanner(System.in);
+		int horaEntrada, HoraSaida, duracao;
+		
+		horaEntrada = sc.nextInt();
+		HoraSaida = sc.nextInt();
+		
+		duracao = HoraSaida - horaEntrada;
+		
+		System.out.println("A duração do jogo foi: " + duracao);
+		
+		sc.close();
+
+	}
+
+}

@@ -1,0 +1,36 @@
+package EstrututasRepetitivas;
+
+import java.util.Scanner;
+
+public class TiposDeCombustiveis {
+
+	public static void main(String[] args) {
+	
+		Scanner sc = new Scanner(System.in);
+		int cod = sc.nextInt();
+		int alcool = 0;
+		int gasolina = 0;
+		int diesel = 0;
+		
+		
+		while(cod >=1 && cod <= 3) {
+			if(cod == 1) {
+				alcool =+ cod;
+			}
+			else if(cod == 2) {
+				gasolina =+ cod;
+			}
+			else if(cod == 3) {
+				diesel += cod;
+			}
+			else
+				System.out.println("MUITO OBRIGADO");
+			
+		}
+		
+	
+		sc.close();
+
+	}
+
+}

@@ -1,0 +1,26 @@
+package application;
+
+import java.util.Scanner;
+
+public class Program {
+
+	public static void main(String[] args) {
+
+		Scanner sc = new Scanner(System.in);
+		
+		int n = sc.nextInt();
+		System.out.println("How many employees will be registered? ");
+		
+		for(int i=0; i<=n; i++) {
+			System.out.println("Employee #"+i+":");			
+		}
+
+		
+		System.out.println("Employee");
+		
+		
+		
+		
+	}
+
+}

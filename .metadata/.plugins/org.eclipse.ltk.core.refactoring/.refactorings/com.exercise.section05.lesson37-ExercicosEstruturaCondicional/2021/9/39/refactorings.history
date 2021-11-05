@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;TesteNumeroNegativo.java&apos; to &apos;com.exercise.section5.lesson37-ExercicosEstruturaCondicional/src/estruturaCondicional&apos;&#x0D;&#x0A;- Original project: &apos;com.exercise.section5.lesson37-ExercicosEstruturaCondicional&apos;&#x0D;&#x0A;- Destination element: &apos;com.exercise.section5.lesson37-ExercicosEstruturaCondicional/src/estruturaCondicional&apos;&#x0D;&#x0A;- Original element: &apos;TesteNumeroNegativo.java&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="/src&lt;estruturaCondicional" element1="/src&lt;{TesteNumeroNegativo.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1632153785034" units="1" version="1.0"/>
+</session>
